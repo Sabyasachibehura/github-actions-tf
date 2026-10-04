@@ -37,7 +37,7 @@ jobs:
 
 ##### condition based after plan approval only apply #######
 
-name: Terraform Deploy
+name: Terraform Deploy4
 
 on:
   push:
